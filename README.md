@@ -45,7 +45,7 @@ UI updates instantly without page reload.
 
 Clone the repository:
 
-git clone <your-repo-link>
+git clone <https://github.com/ayanmuneer13-bit/password-generator.git>
 
 
 Navigate into the project directory:
